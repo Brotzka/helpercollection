@@ -1,0 +1,40 @@
+{
+  "name": "WebApp",
+  "short_name": "WebApp",
+  "lang": "de-DE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#009688",
+  "theme_color": "#009688",
+  "description": "Ein WebPortal rund um unsere Kleinsten",
+  "Icons": [
+    {
+      "src": "img/icons/touch/homescreen48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }, {
+      "src": "img/icons/touch/homescreen72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }, {
+      "src": "img/icons/touch/homescreen96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }, {
+      "src": "img/icons/touch/homescreen144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "img/icons/touch/homescreen168x168.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    }, {
+      "src": "img/icons/touch/homescreen192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [
+    {"platform": "web"}
+  ]
+}

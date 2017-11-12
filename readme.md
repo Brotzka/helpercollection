@@ -1,3 +1,7 @@
-# Little Plesk helpers
+# My Helper Collection
 
-This repository contains a collection of short guidelines/code-examples which make working with Plesk Onyx and PHP easier.
+This repository contains a collection of code-samples for all the software I'am working with.
+
+- Laravel 5.x
+- Plesk
+- Homestead/Vagrant
